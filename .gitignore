@@ -1,0 +1,57 @@
+# Compiled Java class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+target/
+build/
+out/
+
+# Dependency / build tools
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.metadata/
+bin/
+tmp/
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+nb-configuration.xml
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Temp files
+*.tmp
+*.swp
+
+# Java crash logs
+hs_err_pid*
+
+# Serialized files
+*.ser
